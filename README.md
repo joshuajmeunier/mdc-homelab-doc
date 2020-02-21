@@ -23,3 +23,9 @@ Here I will document everything about my home network, excluding any passwords o
 I've been using pfSense since 2016 and it has been a great platform. I've tried using OPNsense in the past, but I've found it had some pitfalls compared to pfSense and it had some goods. However, pfSense had goods that outweighed OPNsense. Maybe in the future I will try again.
 
 If you want to try pfSense for yourself, checkout [pfSense](https://www.pfsense.org)
+
+### Network Scheme
+
+* WAN - Comcast/Xfinity ISP
+* LAN - 10.26.13.0/24
+* IoT - 172.26.13.0/26
