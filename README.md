@@ -1,7 +1,7 @@
 ﻿# mdc-homelab-doc
 Meunier Data Center Home Lab Documentation
 
-![Alt text](images/JMLOGO_Horizontal_Color_071913.png)
+![Alt text](images/JMLOGO.png)
 
 ## About
 
