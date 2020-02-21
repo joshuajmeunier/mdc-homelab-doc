@@ -1,4 +1,4 @@
-﻿# mdc-homelab-doc
+﻿# MDC Home Lab
 Meunier Data Center Home Lab Documentation
 
 ![Alt text](images/JMLOGO.png)
