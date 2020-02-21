@@ -9,6 +9,11 @@ Why do I call my network Meunier Data Center (MDC)? I call it that because I hos
 
 Here I will document everything about my home network, excluding any passwords or other sensitive materials.
 
+## Table of Contents
+
+1. Contents in this README
+1. ![Initial Server Setup](server-setup-instructions/Initial_Setup.md)
+
 ## Network Hardware
 
 1. Arris Modem
