@@ -11,4 +11,8 @@ Here I will document everything about my home network, excluding any passwords o
 
 ## Network Hardware
 
-1. HP T620 Plus with HP 4-port NIC card (1)
+1. Arris Modem
+1. HP T620 Plus with HP 4-port NIC card
+1. 24-port TP-Link Unmanaged Gigabit Switch
+1. 24-port Patch Panel
+1. 24-port HP Managed RJ-45 Managed Megabit with 2 SFP ports
