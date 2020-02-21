@@ -16,3 +16,4 @@ Here I will document everything about my home network, excluding any passwords o
 1. 24-port TP-Link Unmanaged Gigabit Switch
 1. 24-port Patch Panel
 1. 24-port HP Managed RJ-45 Managed Megabit with 2 SFP ports
+1. ObiHai 200 for Google Voice attached to fax machine
